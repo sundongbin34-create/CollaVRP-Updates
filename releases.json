@@ -1,0 +1,13 @@
+{
+  "latest_version": "1.0.0",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "published_at": "2026-10-29",
+      "notes": "CollaVRP 1.0.0 正式版发布，后续支持在线检查更新。",
+      "filename": "CollaVRP_1.0.0.zip",
+      "download_url": "https://github.com/sundongbin34-create/CollaVRP-Updates/releases/download/v1.0.0/CollaVRP_1.0.0.zip",
+      "sha256": "CE500F6DA16F14D6310DD0B4A5EA93E27B72BE6D4DEF503644336F1C85757038"
+    }
+  ]
+}
