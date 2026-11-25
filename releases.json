@@ -1,0 +1,13 @@
+{
+  "latest_version": "1.0.0",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "published_at": "2026-11-20",
+      "notes": "协作配送程序最新版本发布，完善了相关功能，修复了已知问题。",
+      "filename": "CollaVRP_1.0.0.zip",
+      "download_url": "https://github.com/sundongbin34-create/CollaVRP-Updates/releases/download/v1.0.0/CollaVRP_1.0.0.zip",
+      "sha256": "A39E54ECF0F510299A6CFDC008128429FE6FDD29652EE31349BB3ECD82857025"
+    }
+  ]
+}
